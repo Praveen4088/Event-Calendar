@@ -28,3 +28,5 @@ Instructions to Run the App Locally:
 
 Link to Deployed App:
 
+https://vercel.com/praveen4088s-projects/event-calendar
+
